@@ -155,3 +155,24 @@
 		transform: rotate(-25deg);
 	}
 }
+
+input {
+	width: 50% !important; 
+}
+
+.conover {
+	float: left !important;
+}
+
+.erik {
+	float: right !important;
+}
+
+.dokter {
+	margin-left: 200px;
+}
+
+.dokter-name {
+	font-size: 1.4em;
+	font-weight: bolder;
+}
